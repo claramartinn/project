@@ -5,6 +5,7 @@ ul{
 	background: #ffc949ff;
 	overflow: hidden;
 	text-align: center;
+	width: 100%
 }  
 li{
 	float: left;
@@ -15,10 +16,13 @@ li a{ display: block;
 	padding: 13px 120px; 
 	color: #000000;
 	font-family:rubik, arial, mukta;
-
 	}
 
 a:hover{
 	background:#763d0bff;
 	color: #ffc949ff;
 }
+table{
+	background-color: #ffffff;
+	border-collapse: separate;
+
