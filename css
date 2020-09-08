@@ -9,13 +9,14 @@ ul{
 }  
 li{
 	float: left;
+	width: 25%;
 	}
 
 li a{ display: block;
 	text-align: center;
 	padding: 13px 120px; 
 	color: #000000;
-	font-family:rubik, arial, mukta;
+	font-family: 'Montserrat', sans-serif;
 	}
 
 a:hover{
@@ -23,6 +24,19 @@ a:hover{
 	color: #ffc949ff;
 }
 table{
-	background-color: #ffffff;
+	
+	background-color: #d98235ff;
 	border-collapse: separate;
+	border-color: #d98235ff; width: 100%;
+	border-width: 0;
+	}
+
+td{
+	background-color: #fff;
+	}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	}
+
 
