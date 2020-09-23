@@ -16,8 +16,8 @@ li a{ display: block;
 	text-align: center;
 	padding: 13px 120px; 
 	color: #000000;
-	font-family: 'Montserrat', sans-serif;
-	}
+	font-family: "verdana";  
+	 }
 
 a:hover{
 	background:#763d0bff;
@@ -25,18 +25,22 @@ a:hover{
 }
 table{
 	
-	background-color: #d98235ff;
+	background-color: #763d0bff;
 	border-collapse: separate;
-	border-color: #d98235ff; width: 100%;
-	border-width: 0;
+	border-color: #763d0bff; width: 100%;
+	border-width: 50;
 	}
 
 td{
-	background-color: #fff;
+	background-color: #763d0bff;
+	font-size: 14;
 	}
 
 p{
-	font-family: 'Montserrat', sans-serif;
+	font-family:"Montserrat";
+	font-family: 'Inter', sans-serif;
 	}
+
+
 
 
